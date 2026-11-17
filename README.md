@@ -1,26 +1,32 @@
 # Security Engineering & Cybersecurity
 
-I'm a cybersecurity professional with experience in cloud security, infrastructure, and security engineering.
+I'm a cybersecurity professional with experience in cloud security, infrastructure, identity and access management, and security engineering.
 
-My work has included Microsoft Azure, identity and access management, infrastructure as code, and security monitoring.
+My professional background includes Microsoft Azure, infrastructure as code, security tooling, and infrastructure administration.
 
-I'm currently developing practical security engineering projects to expand and demonstrate my technical skills.
+I'm currently building and documenting practical security engineering projects, with an emphasis on cloud security, detection engineering, and automation.
 
-## Projects
+## Featured Projects
 
-**[Microsoft Entra Sign-In Monitor](https://github.com/RJ-Dixon/entra-signin-monitor)**
+### [Microsoft Entra Sign-In Monitor](https://github.com/RJ-Dixon/entra-signin-monitor)
 
-A Python application that retrieves Microsoft Entra ID authentication logs through Microsoft Graph and analyzes suspicious authentication activity.
+A Python-based security monitoring application that retrieves and analyzes Microsoft Entra ID authentication logs using Microsoft Graph.
 
-Features include failed sign-in detection, rolling time-window analysis, API pagination, and automated testing.
+**Current capabilities:**
+- Microsoft Graph authentication and paginated log collection
+- Failed authentication and rapid-failure detection
+- Time-window analysis and configurable detection thresholds
+- Input validation and JSON reporting
+- Automated unit and property-based testing
 
-## Technologies
+*Active development — expanding reliability, event tracking, and detection capabilities.*
 
-- **Cloud & Identity:** Microsoft Azure, Microsoft Entra ID
-- **Infrastructure & Automation:** Terraform, Python, PowerShell, Bash
-- **Security:** Cloud security, IAM, security monitoring, vulnerability management
-- **Additional:** CI/CD, containers, Kubernetes
+## Technical Skills
 
-## Current Focus
+**Cloud & Identity:** Microsoft Azure, Microsoft Entra ID, IAM
 
-Building and documenting practical security engineering tools, with an emphasis on secure cloud infrastructure, detection engineering, and automation.
+**Programming & Automation:** Python, PowerShell, Bash, Terraform
+
+**Security Engineering:** Cloud security, vulnerability management, security monitoring
+
+**Infrastructure:** CI/CD, containers, Kubernetes
