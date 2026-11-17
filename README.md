@@ -8,7 +8,7 @@ I'm currently developing practical security engineering projects to expand and d
 
 ## Projects
 
-**Microsoft Entra Sign-In Monitor**
+**[Microsoft Entra Sign-In Monitor](https://github.com/RJ-Dixon/entra-signin-monitor)**
 
 A Python application that retrieves Microsoft Entra ID authentication logs through Microsoft Graph and analyzes suspicious authentication activity.
 
